@@ -1,0 +1,24 @@
+
+.banner{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+
+.bb{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/30.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px; 
+}
+
+.aa{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px; 
+}
